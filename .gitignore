@@ -1,0 +1,11 @@
+*.aux
+*.log
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.dvi
+*-eps-converted-to.pdf
+*.blg
+*.bbl
+*.toc
+main_ts38215.pdf
